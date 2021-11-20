@@ -1,0 +1,44 @@
+/**
+ * @name Translucence
+ * @version 1.0.6.3
+ * @description A translucent/frosted glass Discord theme
+ * @author CapnKitten
+ * 
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ */
+
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+
+:root {
+	--app-bg: url(https://images-ext-1.discordapp.net/external/5U73tatMYxJBYJI1QN-xUnekjGCfEqmLNja4Slf1bQM/https/i.redd.it/3xt2rg5usmp71.jpg);
+	--app-blur: 2px;
+	--app-margin: 5px;
+	--app-radius: 7px;
+	--app-accent: #7babf3;
+	--app-accent-image: none;
+	--app-accent-rgb: 215,61,61;
+	--app-accent-text: #000; /*	-	*/
+
+	--sidebar-color: rgba(0,0,0,0.4);
+	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+
+	--messages-color: rgba(0,0,0,0.4); /*	-	*/
+
+	--textarea-color: 0,0,0;
+	--textarea-text-color: rgb(255, 255, 255); /*	-	*/
+
+	--card-color: rgba(0,0,0,0.4);
+	--card-color-hover: rgba(0,0,0,0.5);
+	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
+
+	--interactive-normal: #aaa;
+	--interactive-hover: #ddd;
+	--interactive-active: #fff;
+	--interactive-muted: #777; /*	-	*/
+
+	--background-modifier-hover: rgba(105, 176, 241,0.075);
+	--background-modifier-selected: rgba(105, 176, 241, 0.125);
+}

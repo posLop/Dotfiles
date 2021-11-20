@@ -1,0 +1,21 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.9.2",
+		"CreationDate": "1.4.6",
+		"EditRoles": "1.0.8",
+		"NotificationSounds": "3.6.3",
+		"PinDMs": "1.8.5"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "a002793ac453a4de5e3984e1335dc4b2a5790446",
+		"0BDFDB.raw.css": "6bb82eb9f45d2d68a03ad2d3e21dcf35a5e2e3ee"
+	}
+}
